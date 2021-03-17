@@ -92,9 +92,9 @@ for scalable web applications (also with Ionic framework for cross-platform deve
 industry experience. Here is my <a href="http://github.com/jakeuche" target="_blank" rel="noopener noreferrer"> Github page</a> to see how a is structure my code and also some other projects that is not listed</div>
         </div>
 
-        <div class="responsive-container">
+        <!-- <div class="responsive-container">
           <iframe class="responsive-iframe w-full h-full top-0 left-0 border-0" src="https://www.youtube.com/embed/uHo6o1TNQeE" style="border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+        </div> -->
       </div> <!-- end get-to-know me -->
     </div>
 
