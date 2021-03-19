@@ -91,7 +91,10 @@
 for scalable web applications (also with Ionic framework for cross-platform development) with over 2 years of
 industry experience. Here is my <a href="http://github.com/jakeuche" target="_blank" rel="noopener noreferrer"> Github page</a> to see how a is structure my code and also some other projects that is not listed</div>
         </div>
-
+        <div class="responsive-container">
+        <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2F7YrnQtTzgivfyQUGRj70sA%2FUntitled%3Fnode-id%3D1%253A5" allowfullscreen>
+        </iframe>
+        <div>
         <!-- <div class="responsive-container">
           <iframe class="responsive-iframe w-full h-full top-0 left-0 border-0" src="https://www.youtube.com/embed/uHo6o1TNQeE" style="border:0;" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div> -->
