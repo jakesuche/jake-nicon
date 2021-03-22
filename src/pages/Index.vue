@@ -55,7 +55,7 @@
           </li>
           <li class="checkmark">
             <div>Givesng foundation website</div>
-            <div class="text-lg text-gray-600">Built with vue , Bootstrap, vuex,vuesax. The website is still on development therefore some features like css  and functionalities might not work properly. Unfortunately i stopped the  development  due the financial contraint of the client that owns it <a href="https://gives-staging.herokuapp.com/" target="_blank" rel="noopener noreferrer">live link</a></div>
+            <div class="text-lg text-gray-600">Built with vue , Bootstrap, vuex,vuesax. The website is still on development therefore some features like css  and functionalities might not work properly. <a href="https://gives-staging.herokuapp.com/" target="_blank" rel="noopener noreferrer">live link</a></div>
           </li>
           <li class="checkmark">
             <div>Google map project </div>
