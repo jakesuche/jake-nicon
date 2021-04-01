@@ -24,7 +24,7 @@
         </div> <!-- end links -->
 
         <p>A disciplined full-stack developer with the ability to work confidently with Vue.js, React.js, and node.js for
-for scalable web applications (also with Ionic framework for cross-platform development) with over 2 years of
+for scalable web applications (also with Ionic framework for cross-platform development) with over 4 years of
 industry experience.</p>
       </div>
     </section>

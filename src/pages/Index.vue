@@ -88,7 +88,7 @@
         <div class="flex flex-col sm:flex-row justify-between items-center mb-16">
           <div><g-image src="../../static/intern.jpg" alt="avatar" class="w-32 h-32 rounded-full mb-8 lg:mb-0" /></div>
           <div class="flex-1 text-lg sm:text-xl ml-6">A disciplined full-stack developer with the ability to work confidently with Vue.js, React.js, and node.js for
-for scalable web applications (also with Ionic framework for cross-platform development) with over 2 years of
+for scalable web applications (also with Ionic framework for cross-platform development) with over 4 years of
 industry experience. Here is my <a href="http://github.com/jakeuche" target="_blank" rel="noopener noreferrer"> Github page</a> to see how a is structure my code and also some other projects that is not listed</div>
         </div>
         <div class="responsive-container">
